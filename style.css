@@ -1,0 +1,27 @@
+.black{
+    background-color: rgb(52, 50, 50);
+    color: aliceblue;
+}
+.green{
+    background-color: rgb(70, 122, 70);
+}
+
+.green-2{
+    background-color: aquamarine;
+}
+
+/* .container{
+    display: flex;
+    justify-content: space-between;
+} */
+
+.pill{
+    border-radius: 0.4rem;
+}
+
+.in-black{
+    background-color: black;
+    color: red;
+    
+    
+}
