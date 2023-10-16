@@ -9,6 +9,10 @@ function updateScore(team, points) {
     var currentScore = parseInt(scoreElement.innerText);
     scoreElement.innerText = currentScore + points;
 }
+let reload = document.querySelector('.steve')
+reload.addEventListener('click', ()=> {
+    window.location.reload()
+})
 
 // function updateScore(team, points) {
 //     if (team === 1) {
