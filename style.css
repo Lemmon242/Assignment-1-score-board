@@ -1,32 +1,62 @@
 @import url('https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap');
 
-.font{
+ .body{
     font-family: 'Press Start 2P', sans-serif;
+ } 
+ .big{
+   height: 500px;
+ }
+ h2{
+    font-size: bold;
+ }
+ .bot .lov{
+    font-family: 'Press Start 2P', sans-serif;
+    height: 90px;
+    width: 120px;
+    font-size: 50px;
+ }
+ .bot  .lou{
+   font-family: 'Press Start 2P', sans-serif;
+    height: 90px;
+    width: 120px;
+    font-size: 50px;
+ }
+.mot .one{
+   color: white;
+   background-color: transparent;
+   border: 1px solid white;
 }
-.black{
-    background-color: rgb(52, 50, 50);
-    color: aliceblue;
+.mot{
+   margin-top: 10px;
 }
-.green{
-    background-color: rgb(70, 122, 70);
+.mot .two{
+   color: white;
+   background-color: transparent;
+   border: 1px solid white;
 }
+.mot .three{
+   color: white;
+   background-color: transparent;
+   border: 1px solid white;
+} 
+.mot .five{
+   color: white;
+   background-color: transparent;
+   border: 1px solid white;
+} 
+.mot .six{
+   color: white;
+   background-color: transparent;
+   border: 1px solid white;
+} 
+.mot .seven{
+   color: white;
+   background-color: transparent;
+   border: 1px solid white;
+} 
 
-.green-2{
-    background-color: aquamarine;
-}
-
-/* .container{
-    display: flex;
-    justify-content: space-between;
-} */
-
-.pill{
-    border-radius: 0.4rem;
-}
-
-.in-black{
-    background-color: black;
-    color: red;
-    
-    
+.lat .four{
+   background-color: rgb(144, 245, 144);
+   font-family: 'Press Start 2P', sans-serif;
+   margin-top: 90px;
 }
