@@ -1,3 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap');
+
+.font{
+    font-family: 'Press Start 2P', sans-serif;
+}
 .black{
     background-color: rgb(52, 50, 50);
     color: aliceblue;
